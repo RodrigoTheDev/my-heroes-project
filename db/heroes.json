@@ -1,0 +1,224 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Spider Man",
+      "description": "Spider-Man's secret identity is Peter Benjamin Parker, a teenage high school student and an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker died in a plane crash.",
+      "firstapp": "Amazing Fantasy #15 (1962)",
+      "year": "1962",
+      "alterego": "Peter Benjamin Parker",
+      "origin": "Queens, New York City",
+      "teams": "Avengers, Fantastic Four, X-Men, Secret Defenders, Future Foundation, Daily Bugle, Heroes for Hire, Mighty Avengers, New Avengers, Spider-Army / Web-Warriors",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "description": "A wealthy American business magnate, playboy, philanthropist, inventor and ingenious scientist, Anthony Edward 'Tony' Stark suffers a severe chest injury during a kidnapping. When his captors attempt to force him to build a weapon of mass destruction, he instead creates a mechanized suit of armor to save his life and escape captivity. Later, Stark develops his suit, adding weapons and other technological devices he designed through his company, Stark Industries.",
+      "firstapp": "Tales of Supersense #39 (1963)",
+      "year": "1963",
+      "alterego": "Anthony Edward Stark",
+      "origin": "Long Island, New York",
+      "teams": "Avengers, A.I. Army, Department of Defense, Force Works, New Avengers, Guardians of the Galaxy, Illuminati, Mighty Avengers, S.H.I.E.L.D., Stark Industries, Stark Resilient",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "description": "Thor Odinson is a character appearing in American comic books published by Marvel Comics. Created by artist Jack Kirby, writer Stan Lee, and scripter Larry Lieber, debuting in the Silver Age of Comic Books. Thor is based on the Norse mythological god of the same name. He is the Asgardian god of thunder, whose enchanted hammer Mjolnir enables him to fly and manipulate weather, among his other superhuman attributes.",
+      "firstapp": "Journey into Mystery #83 (1962)",
+      "year": "1962",
+      "alterego": "Thor Odinson",
+      "origin": "Asgard",
+      "teams": "Avengers, Warriors Three, Thor Corps, God Squad, Avengers Unity Squad",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/Thor_by_Olivier_Coipel.png"
+    },
+    {
+      "id": 4,
+      "name": "Captain America",
+      "description": "Captain America's civilian identity is Steve Rogers, a frail man enhanced to the peak of human physical perfection by an experimental 'super-soldier serum' after joining the United States Army to aid the country's efforts in World War II. Equipped with an American flag-inspired costume and a virtually indestructible shield, Captain America and his sidekick Bucky Barnes clashed frequently with the villainous Red Skull and other members of the Axis powers.",
+      "firstapp": "Captain America Comics #1 (1940)",
+      "year": "1940",
+      "alterego": "Steve Rogers",
+      "origin": "New York City",
+      "teams": "Avengers, Invaders, S.H.I.E.L.D., U.S. Army",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/CaptainAmericaHughes.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hulk",
+      "description": "Following his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will. This transformation often leads to destructive rampages and to conflicts that complicate Banner's civilian life.",
+      "firstapp": "The Incredible Hulk #1 (1962)",
+      "year": "1962",
+      "alterego": "Robert Bruce Banner",
+      "origin": "Dayton, Ohio",
+      "teams": "Avengers, Defenders, Horsemen of Apocalypse, Fantastic Four, Pantheon, Warbound, S.M.A.S.H., Secret Avengers",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png"
+    },
+    {
+      "id": 6,
+      "name": "Spawn",
+      "description": "Spawn is a superhero appearing in a monthly comic book of the same name published by American company Image Comics, as well as in a number of films, television series, and video game adaptations set in the Image Universe. Created by Todd McFarlane.",
+      "firstapp": "Spawn #1 (1992)",
+      "year": "1992",
+      "alterego": "Albert Francis Simmons",
+      "origin": "Detroit, Michigan",
+      "teams": "CIA, Secret Service, U.S. Marine Corps, Force Reconnaissance",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Spawn_Classic.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Black Panther",
+      "description": "Black Panther's real name is T'Challa, and he is depicted as the king and protector of the African nation of Wakanda. Along with possessing enhanced abilities achieved through ancient Wakandan rituals of drinking the essence of the heart-shaped herb, T'Challa also relies on his proficiency in science, expertise in his nation's traditions, rigorous physical training, hand-to-hand combat skills, and access to wealth and advanced Wakandan technology to combat his enemies.",
+      "firstapp": "Fantastic Four #52 (1966)",
+      "year": "1966",
+      "alterego": "T'Challa",
+      "origin": "Wakanda, Africa",
+      "teams": "Mighty Avengers, Fantastic Force. New Avengers. Fantastic Four. Avengers, Ultimates",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
+    },
+    {
+      "id": 8,
+      "name": "Scarlet Witch",
+      "description": "The Scarlet Witch is first depicted as a reluctant supervillain along with her twin brother, Pietro Maximoff/Quicksilver, both founding members of the Brotherhood of Mutants. A year after her debut, she joined the Avengers superhero team and ever since has often been depicted as a regular member of that or related teams (such as the West Coast Avengers and Force Works).",
+      "firstapp": "The X-Men #4 (1964)",
+      "year": "1964",
+      "alterego": "Wanda Django Maximoff",
+      "origin": "Sokovia",
+      "teams": "Avengers, A-Force, Brotherhood of Mutants, Defenders, Force Works, Lady Liberators, Uncanny Avengers, West Coast Avengers",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Scarlet_Witch.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Vision",
+      "description": "The Vision was created from a copy of the original Human Torch, a synthetic man created by Phineas T. Horton. Ultron took this inert android and added more advanced technology to it, as well as new programming of his own design and a copy of human brainwave patterns. The result was the Vision, a synthezoid driven by logic but possessing emotions and able to achieve emotional growth.",
+      "firstapp": "Avengers #57 (1968)",
+      "year": "1968",
+      "alterego": "Vision",
+      "origin": "Brooklyn, New York",
+      "teams": "Avengers, West Coast Avengers, Avengers A.I., Defenders, Mighty Avengers, New Avengers",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Avengers_Vol_4_24.1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Blue Marvel",
+      "description": "Adam Brashear is a former fullback at Cornell University as well as a veteran of the Korean War, a member of the Marine Corps with two Silver Stars. While in the Marine Corps he met Conner Sims, the friend he would later know as Anti-Man. Brashear later became the project lead on a scientific attempt to harness anti-matter through the creation of a Negative Reactor which created a bridge between the Negative Zone and the positive matter universe.",
+      "firstapp": "Adam: Legend of the Blue Marvel #1 (2008)",
+      "year": "2008",
+      "alterego": "Adam Bernard Brashear",
+      "origin": "Earth",
+      "teams": "United States Marine Corps, Mighty Avengers, Ultimates Defenders",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg"
+    },
+    {
+      "id": 11,
+      "name": "White Tiger",
+      "description": "Ava, the fifth White Tiger, is the sister of Hector Ayala and a student enrolled in the Avengers Academy. She inherited the White Tiger amulet from her brother, following the death of her family members at the hands of Gideon Mace. Upon her introduction, Ava states the White Tiger is a family legacy that she intends to honor.",
+      "firstapp": "Avengers Academy #20 (2011)",
+      "year": "2011",
+      "alterego": "Ava Ayala",
+      "origin": "New York City",
+      "teams": "Daughters of Liberty, Avengers Academy, Mighty Avengers, Heroes for Hire, S.H.I.E.L.D.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Avengers_Academy_24.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Luke Cage",
+      "description": "Luke Cage had been imprisoned for a crime he did not commit and gained the powers of superhuman strength and unbreakable skin after being subjected voluntarily to an experimental procedure.",
+      "firstapp": "Luke Cage, Hero for Hire #1 (1972)",
+      "year": "1972",
+      "alterego": "Lucas Cage",
+      "origin": "Harlem, New York",
+      "teams": "Avengers, New Avengers, Heroes for Hire, Defenders, Fantastic Four, Marvel Knights, Thunderbolts",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/Luke_Cage_by_Stuart_Immonen.png"
+    },
+    {
+      "id": 13,
+      "name": "Power Man",
+      "description": "Victor Alvarez was first introduced as a teenager from the neighborhood of Hell's Kitchen in New York City. He is the son of Reina Alvarez and Shades. As a child, he was caught in an explosion caused by the villain Bullseye that resulted in the deaths of over 100 people including his father. Victor survived by somehow using a technique that drew the chi from the dead bodies around him and temporarily granted him superhuman strength and fortitude.",
+      "firstapp": "Shadowland: Power Man #1 (2010)",
+      "year": "2010",
+      "alterego": "Victor Alvarez",
+      "origin": "New York City",
+      "teams": "Avengers Idea Mechanics, Avengers Academy, Mighty Avengers, Heroes for Hire, Thunderbolts, Champions",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8f/Power_man.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Wasp",
+      "description": "Janet van Dyne is usually depicted as having the ability to shrink to a height of several centimeters, fly by means of insectoid wings, and fire bioelectric energy blasts. She is a founding member of the Avengers and the one who gave them their name as well as a longtime leader of the team. She is also the ex-wife of Hank Pym and the stepmother of Nadia van Dyne.",
+      "firstapp": "Tales to Astonish #44 (1963)",
+      "year": "1963",
+      "alterego": "Janet van Dyne",
+      "origin": "New Jersey",
+      "teams": "Avengers, Uncanny Avengers, Agents of Wakanda, Lady Liberators, West Coast Avengers, Mighty Avengers, Defenders",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/AVEN071.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ant Man",
+      "description": "Biochemist Dr. Henry 'Hank' Pym discovers an unusual set of subatomic particles he labels 'Pym particles'. Entrapping them within two separate serums, he creates a size-altering formula and a reversal formula, testing them on himself. Reduced to the size of an insect, he becomes trapped in an anthill before he eventually escapes and uses the reversal formula to return to normal size. Deciding the serums are too dangerous, he destroys them. He later reconsiders his decision and recreates his serums. Pym's experience in the anthill inspires him to study ants, and he builds a cybernetic helmet that lets him communicate with and control them. He designs a costume made of unstable molecules to prevent bites or scratches from the ants and reinvents himself as the superhero Ant-Man.",
+      "firstapp": "Tales to Astonish #35 (1962)",
+      "year": "1962",
+      "alterego": "Henry Jonathan Pym",
+      "origin": "Nebraska",
+      "teams": " Avengers, West Coast Avengers, Mighty Avengers, Secret Defenders, Defenders, Avengers Academy, Secret Avengers, Avengers A.I., Illuminati",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6b/Irredeemable_Ant-Man_Vol_1_5_Textless.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Hawkeye",
+      "description": "Clint Barton was born in Waverly, Iowa. At a young age he lost both of his parents in a car crash. After six years in an orphanage, Clint and his brother Barney Barton ran away to join the Carson Carnival of Traveling Wonders.Clint soon caught the eye of the Swordsman, who took the young boy on as his assistant. Along with the help of Trick Shot, the Swordsman trained Clint to become a master archer. Clint later found the Swordsman embezzling money from the carnival. Before he could turn his mentor over to the authorities, Clint was beaten and left for dead, allowing the Swordsman to escape town.",
+      "firstapp": "Tales of Suspense #57 (1964)",
+      "year": "1964",
+      "alterego": "Clinton Francis Barton",
+      "origin": "Waverly, Iowa",
+      "teams": "Avengers, Avengers Academy, Defenders, Great Lakes Avengers, New Avengers, Secret Avengers, S.H.I.E.L.D., Thunderbolts, West Coast Avengers, Wild Pack, World Counter-terrorism Agency",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png"
+    },
+    {
+      "id": 17,
+      "name": "Quicksilver",
+      "description": "Pietro and his twin sister, Wanda, were raised by Django and Marya Maximoff, a Romani couple. As adolescents, Pietro Django Maximoff and his sister Wanda discovered that they had peculiar talents. When Django began to steal food to feed his starving family, enraged villagers attacked the Roma camp. Using his phenomenal speed, Pietro fled from the camp with his sister. Over the next few years, Wanda and Pietro wandered Central Europe, living off the land.",
+      "firstapp": "The X-Men #4 (1964)",
+      "year": "1964",
+      "alterego": "Pietro Django Maximoff",
+      "origin": "Sokovia",
+      "teams": "Avengers, Brotherhood of Mutants, Inhumans, X-Factor, X-Men",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7c/Quicksilver_%28Marvel_universe_character%29_modern.png"
+    },
+    {
+      "id": 18,
+      "name": "Black Knight",
+      "description": "Dane Whitman was born in Gloucester, Massachusetts to a rich family. In his youth, he studied physics. Whitman is best known as the modern-day Black Knight, continuing a legacy that began in medieval England. The first Black Knight, Whitman's ancestor Sir Percy of Scandia, lived during the reign of King Arthur. Percy's murder at the hand of his nemesis Mordredbegan a string of successors, all of them Percy's descendants. The Black Knight's legacy is revived by Whitman's uncle Nathan Garrett who becomes the supervillain the Black Knight II. After being mortally wounded during a battle with Iron Man, he escapes to his estate, summons his nephew to confess his crimes and asks him to restore honor to their family legacy and atone for Garrett's misdeeds, giving Whitman the weapons that he used for crime.",
+      "firstapp": "The Avengers #47 (1967)",
+      "year": "1967",
+      "alterego": "Dane Whitman",
+      "origin": "Gloucester, Massachusetts",
+      "teams": "The Avengers, The Defenders, Euroforce, Excalibur, Heroes for Hire, Masters of Evil, MI-13, New Avalon, Ultraforce",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Avengers48.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Black Widow",
+      "description": "Natasha was born in Stalingrad (now Volgograd), Russian SFSR, USSR. The first and best-known Black Widow is a Russian agent trained as a spy, martial artist, and sniper, and outfitted with an arsenal of high-tech weaponry, including a pair of wrist-mounted energy weapons dubbed her 'Widow's Bite'. She wears no costume during her first few appearances but simply evening wear and a veil. Romanova eventually defects to the U.S. for reasons that include her love for the reluctant-criminal turned superhero archer, Hawkeye.",
+      "firstapp": "Tales of Suspense #52 (1964)",
+      "year": "1964",
+      "alterego": "Natalia Alianovna Romanova",
+      "origin": "Stalingrad",
+      "teams": "Avengers, The Champions, Daughters of Liberty, Heroes for Hire, KGB, Marvel Knights, Mighty Avengers, Lady Liberators, Secret Avengers, S.H.I.E.L.D., Thunderbolts",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Black_Widow_1.png"
+    },
+    {
+      "id": 20,
+      "name": "Doctor Strange",
+      "description": "Stephen Vincent Strange, M.D., Ph.D., is a brilliant but highly egotistical fictional doctor. He was born in Philadelphia and raised in New York City. After high school, he went to New York College as a pre-med student, entered medical school at Columbia University and completed his residency at New York-Presbyterian Hospital, where his success made him arrogant. Despite his reputation for being able to handle even the most complicated surgical procedures, Strange is self-centered and greedy, and only treats patients who can afford to pay his exorbitant fees. One night, while speeding in his car, a terrible accident shatters the bones in his hands, leading to extensive nerve damage. He soon finds that his fingers tremble uncontrollably, rendering him unable to perform surgery. Too vain to accept a teaching job, Strange desperately searches for a way to fix his hands and subsequently wastes all of his money on expensive, but unsuccessful treatments.",
+      "firstapp": "Strange Tales #110 (1963)",
+      "year": "1963",
+      "alterego": "Stephen Vincent Strange",
+      "origin": "Philadelphia ",
+      "teams": "Avengers, Defenders, Illuminati, Infinity Watch, Midnight Sons, New Avengers, The Order",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg"
+    }
+  ]
+}
